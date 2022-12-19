@@ -1,0 +1,16 @@
+C:\Users\MIRIAM_RR\Documents\UTP\4° Cuatrimestre\05. ESTRUCTURA DE DATOS\Producto 1 - Turismo\Catalogo_Turistico\Catalogo_Turistico\bin\Debug\Catalogo_Turistico.exe.config
+C:\Users\MIRIAM_RR\Documents\UTP\4° Cuatrimestre\05. ESTRUCTURA DE DATOS\Producto 1 - Turismo\Catalogo_Turistico\Catalogo_Turistico\bin\Debug\Catalogo_Turistico.exe
+C:\Users\MIRIAM_RR\Documents\UTP\4° Cuatrimestre\05. ESTRUCTURA DE DATOS\Producto 1 - Turismo\Catalogo_Turistico\Catalogo_Turistico\bin\Debug\Catalogo_Turistico.pdb
+C:\Users\MIRIAM_RR\Documents\UTP\4° Cuatrimestre\05. ESTRUCTURA DE DATOS\Producto 1 - Turismo\Catalogo_Turistico\Catalogo_Turistico\bin\Debug\ClassTurismo.dll
+C:\Users\MIRIAM_RR\Documents\UTP\4° Cuatrimestre\05. ESTRUCTURA DE DATOS\Producto 1 - Turismo\Catalogo_Turistico\Catalogo_Turistico\bin\Debug\ClassTurismo.pdb
+C:\Users\MIRIAM_RR\Documents\UTP\4° Cuatrimestre\05. ESTRUCTURA DE DATOS\Producto 1 - Turismo\Catalogo_Turistico\Catalogo_Turistico\obj\Debug\Catalogo_Turistico.csprojAssemblyReference.cache
+C:\Users\MIRIAM_RR\Documents\UTP\4° Cuatrimestre\05. ESTRUCTURA DE DATOS\Producto 1 - Turismo\Catalogo_Turistico\Catalogo_Turistico\obj\Debug\Catalogo_Turistico.Form1.resources
+C:\Users\MIRIAM_RR\Documents\UTP\4° Cuatrimestre\05. ESTRUCTURA DE DATOS\Producto 1 - Turismo\Catalogo_Turistico\Catalogo_Turistico\obj\Debug\Catalogo_Turistico.Form2.resources
+C:\Users\MIRIAM_RR\Documents\UTP\4° Cuatrimestre\05. ESTRUCTURA DE DATOS\Producto 1 - Turismo\Catalogo_Turistico\Catalogo_Turistico\obj\Debug\Catalogo_Turistico.Form3.resources
+C:\Users\MIRIAM_RR\Documents\UTP\4° Cuatrimestre\05. ESTRUCTURA DE DATOS\Producto 1 - Turismo\Catalogo_Turistico\Catalogo_Turistico\obj\Debug\Catalogo_Turistico.Form4.resources
+C:\Users\MIRIAM_RR\Documents\UTP\4° Cuatrimestre\05. ESTRUCTURA DE DATOS\Producto 1 - Turismo\Catalogo_Turistico\Catalogo_Turistico\obj\Debug\Catalogo_Turistico.Properties.Resources.resources
+C:\Users\MIRIAM_RR\Documents\UTP\4° Cuatrimestre\05. ESTRUCTURA DE DATOS\Producto 1 - Turismo\Catalogo_Turistico\Catalogo_Turistico\obj\Debug\Catalogo_Turistico.csproj.GenerateResource.cache
+C:\Users\MIRIAM_RR\Documents\UTP\4° Cuatrimestre\05. ESTRUCTURA DE DATOS\Producto 1 - Turismo\Catalogo_Turistico\Catalogo_Turistico\obj\Debug\Catalogo_Turistico.csproj.CopyComplete
+C:\Users\MIRIAM_RR\Documents\UTP\4° Cuatrimestre\05. ESTRUCTURA DE DATOS\Producto 1 - Turismo\Catalogo_Turistico\Catalogo_Turistico\obj\Debug\Catalogo_Turistico.exe
+C:\Users\MIRIAM_RR\Documents\UTP\4° Cuatrimestre\05. ESTRUCTURA DE DATOS\Producto 1 - Turismo\Catalogo_Turistico\Catalogo_Turistico\obj\Debug\Catalogo_Turistico.pdb
+C:\Users\MIRIAM_RR\Documents\UTP\4° Cuatrimestre\05. ESTRUCTURA DE DATOS\Producto 1 - Turismo\Catalogo_Turistico\Catalogo_Turistico\obj\Debug\Catalogo_Turistico.Form5.resources

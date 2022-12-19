@@ -1,0 +1,5 @@
+C:\Users\MIRIAM_RR\Documents\UTP\4° Cuatrimestre\05. ESTRUCTURA DE DATOS\Producto 1 - Turismo\ClassTurismo\ClassTurismo\bin\Debug\ClassTurismo.dll
+C:\Users\MIRIAM_RR\Documents\UTP\4° Cuatrimestre\05. ESTRUCTURA DE DATOS\Producto 1 - Turismo\ClassTurismo\ClassTurismo\bin\Debug\ClassTurismo.pdb
+C:\Users\MIRIAM_RR\Documents\UTP\4° Cuatrimestre\05. ESTRUCTURA DE DATOS\Producto 1 - Turismo\ClassTurismo\ClassTurismo\obj\Debug\ClassTurismo.csprojAssemblyReference.cache
+C:\Users\MIRIAM_RR\Documents\UTP\4° Cuatrimestre\05. ESTRUCTURA DE DATOS\Producto 1 - Turismo\ClassTurismo\ClassTurismo\obj\Debug\ClassTurismo.dll
+C:\Users\MIRIAM_RR\Documents\UTP\4° Cuatrimestre\05. ESTRUCTURA DE DATOS\Producto 1 - Turismo\ClassTurismo\ClassTurismo\obj\Debug\ClassTurismo.pdb
